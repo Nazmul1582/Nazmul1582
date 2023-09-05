@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Nazmul Hasan</h1>
-<h3 align="center">🚀 A passionate frontend developer 🚀</h3>
+<h3 align="center">🚀 A junior frontend developer 🚀</h3>
 
 
 - 🌱 I’m currently learning **JavaScript, React Js**
