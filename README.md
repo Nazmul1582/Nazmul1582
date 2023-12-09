@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Nazmul Hasan</h1>
-<h3 align="center">🚀 A junior frontend developer 🚀</h3>
+<h3 align="center">🚀 A web developer 🚀</h3>
 
 
-- 🌱 I’m currently learning **JavaScript, React Js**
+- 🌱 I’m currently learning **MERN Stack**
 - 👀 I’m interested in **JavaScript**
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-nazmulhasan1582@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nazmulhasan1582@gmail.com)](mailto:nazmulhasan1582@gmail.com)
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
